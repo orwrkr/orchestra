@@ -1,5 +1,12 @@
 # <img src="assets/icon.svg" alt="" width="40" align="top"> Partitura
 
+> **Partitura is now [Lanewise](https://github.com/orwrkr/lanewise).** Another AI-agent orchestration product
+> already uses the name Partitura, so development continues at
+> [github.com/orwrkr/lanewise](https://github.com/orwrkr/lanewise) (site:
+> [orwrkr.github.io/lanewise](https://orwrkr.github.io/lanewise/)). To switch an existing install, follow the
+> [upgrade steps](https://github.com/orwrkr/lanewise/blob/main/CHANGELOG.md#0360). **This repository will be
+> removed after December 10, 2026.**
+
 [![tests](https://github.com/orwrkr/partitura/actions/workflows/tests.yml/badge.svg)](https://github.com/orwrkr/partitura/actions/workflows/tests.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 

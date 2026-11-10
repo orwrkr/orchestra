@@ -1,5 +1,10 @@
 # Partitura — a multi-model orchestrator for Claude Code
 
+> **Partitura is now [Lanewise](https://github.com/orwrkr/lanewise)**, and its documentation lives
+> [there](https://github.com/orwrkr/lanewise/blob/main/plugins/lanewise/README.md). To switch an existing install,
+> follow the [upgrade steps](https://github.com/orwrkr/lanewise/blob/main/CHANGELOG.md#0360). This repository will be
+> removed after December 10, 2026.
+
 Claude Code stays in charge: it breaks the task down and decides on its own who gets each subtask and at what effort:
 
 - **Claude subagents** — Haiku, Sonnet, Opus, Fable at different effort levels;
